@@ -1,0 +1,1 @@
+Collection of all my small learning projects in C
